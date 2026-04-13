@@ -12,7 +12,7 @@ include(FetchContent)
 # ------------------------------------------------------------------------------
 find_package(fmt REQUIRED)
 find_package(spdlog REQUIRED)
-find_package(metis REQUIRED)
+find_package(METIS REQUIRED)
 
 # ==============================================================================
 # SymForce Targets
